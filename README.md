@@ -46,15 +46,6 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 ##
 
-### Installation (Termux)
-You can easily install BloodyPhish in Termux by using tur-repo
-```
-$ pkg install tur-repo
-$ pkg install BloodyPhish
-$ BloodyPhish
-```
-### A Note : 
-***Termux discourages hacking*** .. So never discuss anything related to *BloodyPhish* in any of the termux discussion groups. For more check : [wiki](https://wiki.termux.com/wiki/Hacking)
 
 ##
 
